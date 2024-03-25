@@ -63,8 +63,4 @@ public class QuickController {
         ItemDto res = quickService.getItemById(id);
         return res;
     }
-
-
-
-
 }
